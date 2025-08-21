@@ -1,10 +1,10 @@
 // main.cpp
 #include <iostream>
-#include "matematicas.h" // Incluimos nuestro contrato
 
+#include "matematicas.h" // Incluimos nuestro contrato
 void probarMatematicas()
 {
-    std::cout << "Bienvenido al programa de matemáticas" << std::endl;
+    std::cout << "Bienvenido al programa de matematicas" << std::endl;
     std::cout << "Ingresa el primer numero" << std::endl;
     int num1;
     std::cin >> num1;
